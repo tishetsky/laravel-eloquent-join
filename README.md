@@ -1,3 +1,7 @@
+# Fork reason
+
+In this fork I will try to add functionality to support joins with many-to-many relations
+
 # Laravel Eloquent Join
 
 This package introduces the join magic for eloquent models and relations.
